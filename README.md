@@ -1,4 +1,3 @@
-# PowerBI-Flight-Dashboard
 # Power BI Flight Dashboard
 Interactive dashboard for visualizing flight data, operational metrics, and performance analysis.
 
